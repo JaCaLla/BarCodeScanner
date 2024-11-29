@@ -15,7 +15,7 @@ Welcome to the **Barcode Scanner Sample Project**! 📱 This repository provides
 ## 🎥 Demo Video
 
 Check out the app in action!  
-[Click here to watch the demo video](media/livedemo.MP4)  
+![Barcode Scanning Demo](media/livedemo.gif)  
 
 Alternatively, you can preview the video directly below:  
 
